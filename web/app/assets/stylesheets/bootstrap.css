@@ -161,14 +161,14 @@ sup {
 }
 
 a {
-  color: #007bff;
+  color: #9be774;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
 
 a:hover {
-  color: #0056b3;
+  color: #65a545;
   text-decoration: underline;
 }
 
@@ -4370,11 +4370,11 @@ input[type="button"].btn-block {
 
 // Barra personalizada
 
-.navbar-recoleco .navbar-brand {
+.navbar-recoleco .navbar-brand-recoleco {
   color: #fff;
 }
 
-.navbar-recoleco .navbar-brand:hover, .navbar-recoleco .navbar-brand:focus {
+.navbar-recoleco .navbar-brand-recoleco:hover, .navbar-recoleco .navbar-brand-recoleco:focus {
   color: #fff;
 }
 
@@ -4417,6 +4417,35 @@ input[type="button"].btn-block {
 .navbar-recoleco .navbar-text a:hover, .navbar-recoleco .navbar-text a:focus {
   color: #fff;
 }
+
+.bg-recoleco {
+  background-color: #20330A !important;
+}
+
+a.navbar-brand-recoleco {
+  color:#B8CE9F;
+}
+
+a.bg-recoleco:hover, a.bg-recoleco:focus,
+button.bg-recoleco:hover,
+button.bg-recoleco:focus {
+  background-color: #fff !important;
+}
+
+.navbar-brand-recoleco {
+  display: inline-block;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  line-height: inherit;
+  white-space: nowrap;
+}
+
+.navbar-brand-recoleco:hover, .navbar-brand-recoleco:focus {
+  text-decoration: none;
+}
+
 
 // termina barra personalizada
 

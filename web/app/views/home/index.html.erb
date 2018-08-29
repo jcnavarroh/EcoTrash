@@ -1,3 +1,4 @@
+<div class="invisible-nav"></div>
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0"class="active"></li>
@@ -9,10 +10,10 @@
       <%= link_to image_tag("Banner1.jpg", :class => "d-block w-100")%>
     </div>
     <div class="carousel-item">
-      <%= link_to image_tag("Banner1.jpg", :class => "d-block w-100") %>
+      <%= link_to image_tag("Banner2.jpg", :class => "d-block w-100") %>
     </div>
     <div class="carousel-item">
-      <%= link_to image_tag("Banner1.jpg", :class => "d-block w-100") %>
+      <%= link_to image_tag("Banner3.jpg", :class => "d-block w-100") %>
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -24,3 +25,64 @@
     <span class="sr-only">Siguiente</span>
   </a>
 </div>
+
+<div id="caracteristicas">
+<br>
+<br>
+<br>
+<h1 class="text-center">Caracteristicas</h1>
+<br>
+<div class="card text-center">
+  <div class="card-header">
+    <ul class="nav nav-tabs card-header-tabs">
+      <li class="nav-item">
+        <a class="nav-link active">Recordatorios</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link">Tips Recoleco</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link">Juego</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link">Puntuación</a>
+      </li>
+    </ul>
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">"Recordatorios"</h5>
+    <p class="card-text">Con los recordatorios nuestra app te recordara siempre la fecha y hora de recolección de basuras, asi nunca más olvidaras sacar a tiempo tus residuos </p>
+    <a href="#caracteristicas" class="btn btn-primary">Ver como funciona</a>
+  </div>
+</div>
+</div>
+
+<div id="preguntas">
+<br>
+<hr>
+<br>
+<h1 class="text-center">Preguntas Frecuentes</h1>
+<br>
+<div class="row">
+  <div class="col-6">
+    <div class="list-group" id="list-tab" role="tablist">
+      <a class="list-group-item list-group-item-action active" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home">¿Los recordatorios se ajustan a la hora que yo asigne manualmente?</a>
+      <a class="list-group-item list-group-item-action" id="list-profile-list" data-toggle="list" href="#list-profile" role="tab" aria-controls="profile">¿Es posible comparar mi puntuación con mis amigos?</a>
+      <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#list-messages" role="tab" aria-controls="messages">¿Como es posible sumar puntos?</a>
+      <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">¿Puedo cambiar la frecuencia en la que me llegar tips?</a>
+      <a class="list-group-item list-group-item-action" id="list-otro-list" data-toggle="list" href="#list-otro" role="tab" aria-controls="otro">¿Para que localidades estan disponibles los horarios de recolección de basuras?</a>
+    </div>
+  </div>
+  <div class="col-6">
+    <div class="tab-content" id="nav-tabContent">
+      <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">Si, aunque estos son colocados por defecto de acuerdo a la zona en la que estes ubicado, tambien podras asignarmente manualmente la hora y fecha de tus recordatorios.</div>
+      <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">Si, nuestra aplicación cuenta con un filtro que te permitira conocer tu ranking en comparación con los amigos que tengas agregados en nuestra app.</div>
+      <div class="tab-pane fade" id="list-messages" role="tabpanel" aria-labelledby="list-messages-list">Es posible sumar puntos mediante nuestro juego cuando tienes aciertos, sin embargo tambien es posible sumar puntos cada vez que lees un tip o cada vez que atiendes un recordatorio.</div>
+      <div class="tab-pane fade" id="list-settings" role="tabpanel" aria-labelledby="list-settings-list">Si, puedes cambiar la frecuencia de las notificaciones, sin embargo no es recomendable que lo hagas si deseas sumar puntos extra.</div>
+      <div class="tab-pane fade" id="list-otro" role="tabpanel" aria-labelledby="list-otro-list">Por ahora Recoleco solo tienes disponibles los horarios de recolección de basuras para la localidad de Chapinero, Bogotá - Colombia.</div>
+    </div>
+  </div>
+</div>
+</div>
+<br>
+<br>
