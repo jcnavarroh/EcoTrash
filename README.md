@@ -9,7 +9,7 @@ Nuestra aplicación permite el manejo de basuras mediante un sistema de alertas 
 
 Los usuarios que manejan este repositorio, aprenden cosas como (servicios de geolocalización por poligonos de referencia), se permite agregar colaboradores, introducir cambios, usar una sucursal remota y enviar solicitudes de clonación. Una vez que su solicitud de extracción es registrada, @RECOLECO_TEAM modifica el index.html para incluir al usuario.
 
-Este proyecto nace como una iniciativa de un grupo de estudiantes del curso titulado "Fullstack y Aplicaciones Híbridas (herramientas de diseño y desarrollo web - móvil)", impartido por FEDESOFT, el Ministerio de Tecnologías de la Información y las Comunicaciones – MinTIC y el Departamento Administrativo de Ciencia, Tecnología e Innovación – COLCIENCIAS , Colombia.
+Este proyecto nace como una iniciativa de un grupo de estudiantes del curso titulado "Fullstack y Aplicaciones Híbridas (herramientas de diseño y desarrollo web - móvil)", impartido por [FEDESOFT](https://fedesoft.org/), el Ministerio de Tecnologías de la Información y las Comunicaciones – [MINTIC](https://www.mintic.gov.co/portal/vivedigital/) y el Departamento Administrativo de Ciencia, Tecnología e Innovación – [COLCIENCIAS](http://www.colciencias.gov.co/) , Colombia.
 
 
 #### Esperamos una importante contribución social! :octocat:
