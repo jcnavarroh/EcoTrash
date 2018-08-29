@@ -1,11 +1,11 @@
 # RECOLECO
 App de Manejo de Basuras
 
-![RECOLECO](https://raw.github.com/EcoTrash/web/app/assets/images/recoleco.svg)
+![RECOLECO](https://github.com/EcoTrash/web/app/assets/images/recoleco.svg)
 
 Este es un repositorio de la aplicación web RECOLECO alojada por [GitHub Pages](http://pages.github.com).
 
-nuestra aplicación permite el manejo de basuras mediante un sistema de alertas de horarios y fechas de recolección de basuras (las alertas son programadas, de acuerdo a la geolocalización del usuario y los datos almacenados en nuestro servidor sobre el horario en el que pasan los camiones de basura en la ubicación solicitada por el usuario), a la vez que el usuario obtiene información importante sobre tematicas relacionadas al reciclaje, reutilización y reducción de desechos o basuras y se divierte con juegos sencillos relacionados a las tematicas anteriormente mencionadas, acumulando puntos que le permitiran compararse con otros usuarios en el ranking RECOLECO (c).
+Nuestra aplicación permite el manejo de basuras mediante un sistema de alertas de horarios y fechas de recolección de basuras (las alertas son programadas, de acuerdo a la geolocalización del usuario y los datos almacenados en nuestro servidor sobre el horario en el que pasan los camiones de basura en la ubicación solicitada por el usuario), a la vez que el usuario obtiene información importante sobre tematicas relacionadas al reciclaje, reutilización y reducción de desechos o basuras y se divierte con juegos sencillos relacionados a las tematicas anteriormente mencionadas, acumulando puntos que le permitiran compararse con otros usuarios en el ranking RECOLECO (c).
 
 
 Los usuarios que manejan este repositorio, aprenden cosas como (servicios de geolocalización por poligonos de referencia), se permite agregar colaboradores, introducir cambios, usar una sucursal remota y enviar solicitudes de clonación. Una vez que su solicitud de extracción es registrada, @RECOLECO_TEAM modifica el index.html para incluir al usuario.
