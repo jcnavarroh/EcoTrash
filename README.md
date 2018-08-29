@@ -2,7 +2,7 @@
 App de Manejo de Basuras
 
 ![RECOLECO](https://github.com/jcnavarroh/EcoTrash/blob/master/web/app/assets/images/recoleco.svg) 
-<img href="https://github.com/jcnavarroh/EcoTrash/blob/master/web/app/assets/images/recoleco.svg" alt="RECOLECO" style="width: 100px;"/>
+<img src="https://github.com/jcnavarroh/EcoTrash/blob/master/web/app/assets/images/recoleco.svg" alt="RECOLECO" style="width: 100px;"/>
 
 Este es un repositorio de la aplicación web RECOLECO alojada por [GitHub Pages](http://pages.github.com).
 
