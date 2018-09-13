@@ -2,6 +2,9 @@ class UsersController < ApplicationController
   before_action :authenticate_user, only: [:show]
   before_action :set_user, only: [:show]
 
+  def current
+    render json: current_user
+  end
   # GET /users
   def index
     @users = User.all
